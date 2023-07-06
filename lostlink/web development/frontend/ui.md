@@ -1,0 +1,6 @@
+- line height 1.1 to 1.3x fontsize (heading) 1.3 to 1.5x fontsize for body
+- letter spacing -1 to -2% (heading)
+- text alignment (dont mix match between heading and body regarding alignment )
+- text width (50-75 characters for body desktop 600px)
+- use two font sizes and use font weights and subtle color changes to indicate hierarchy
+- if distance between heading to body is 1x then distance from body to next heading should be 2x
