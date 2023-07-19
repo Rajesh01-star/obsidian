@@ -1,0 +1,30 @@
+## Push day
+#### chest (3)
+- incline dumbbell press (4)
+- butter-flies (3)
+- extensions (3)
+#### shoulder(3)
+- shoulder dumbbell press (4)
+- lateral raises(failure)
+- back flies (3)
+#### triceps(2)
+- over head extensions
+- push downs + bar dips
+## Pull day
+#### back (4)
+- dead-lift(4)
+- row/t-bar (3)
+- overhead v-extension (3)
+- back extension (3)
+#### biceps (2)
+- preacher curl / inclined curl (3)
+- easy bar / straight bar curl (4)
+#### shoulder(2)
+- face pull (failure)
+- shrugs (failure)
+## Leg day  
+- smith machine squats (4)
+- hack squats (3)
+- extensions(failure)
+- leg curls(3)
+- calves (3)
